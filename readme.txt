@@ -11,8 +11,6 @@ The AC payment gateway will allow you to accept payments on your WP-eCommerce in
 
 == Description ==
 
-V_1.0.0 IN BETA!
-
 AcceptBitcoin
 
 Bitcoin is fast becoming a way to purchase physical goods and services worldwide and an increasing number of businesses are offering this crypto-currency as an alternative to more traditional forms of payments. Bitcoin's high cryptographic security allows businesses to process transactions in an efficient and cost effective way by eliminating reversals and chargebacks. Accepting Bitcoin payments also helps attract a young and tech-savvy audience, who are eager to find new businesses where they can spend their Bitcoins on. 
