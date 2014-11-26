@@ -3,7 +3,7 @@ Contributors: aligncommerce
 Tags: woocommerce, bitcoin, payments, euro, web payments, gateway
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -52,3 +52,5 @@ support@aligncommerce.com
 
 = 1.0 =
 * Initial Release.
+= 1.0.1 =
+* Discount,Shipping and Taxation Implementation
